@@ -1,0 +1,7 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  position: center;
+  background-size: cover;
+  align-content: flex-start;
+}
